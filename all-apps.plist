@@ -14,7 +14,7 @@
 		<key>bundleId</key>
 		<string>com.maximsemenov.vincodes</string>
 		<key>in_review</key>
-		<true/>
+		<false/>
 	</dict>
 	<dict>
 		<key>title</key>
