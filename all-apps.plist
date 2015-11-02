@@ -4,6 +4,20 @@
 <array>
 	<dict>
 		<key>title</key>
+		<string>VIN-коды – проверь авто на угон</string>
+		<key>appstore_id</key>
+		<string>1052713630</string>
+		<key>description</key>
+		<string>тут будет описание</string>
+		<key>account</key>
+		<string>semenov</string>
+		<key>bundleId</key>
+		<string>com.maximsemenov.vincodes</string>
+		<key>in_review</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>title</key>
 		<string>Контроль скорости – сэкономь на штрафах ГИБДД с цифровым GPS спидометром</string>
 		<key>appstore_id</key>
 		<string>1052713630</string>
@@ -16,8 +30,8 @@
 		<string>semenov</string>
 		<key>bundleId</key>
 		<string>com.maximsemenov.Speedometer</string>
-		<key>available</key>
-		<true/>
+		<key>in_review</key>
+		<false/>
 	</dict>
 	<dict>
 		<key>title</key>
@@ -30,8 +44,8 @@
 		<string>semenov</string>
 		<key>bundleId</key>
 		<string>com.maximsemenov.car-detector</string>
-		<key>available</key>
-		<true/>
+		<key>in_review</key>
+		<false/>
 	</dict>
 	<dict>
 		<key>title</key>
@@ -42,7 +56,7 @@
 		<string>Хочешь всегда знать, кого добавила в друзья твоя девушка? Или кого удалил из друзей ВК твой парень? Твой начальник, кумир или одногруппник? &quot;Локатор друзей&quot; поможет тебе всегда оставаться в курсе событий!</string>
 		<key>account</key>
 		<string>semenov</string>
-		<key>available</key>
+		<key>in_review</key>
 		<false/>
 	</dict>
 	<dict>
@@ -56,8 +70,8 @@
 		<string>semenov</string>
 		<key>bundleId</key>
 		<string>com.maximsemenov.adblocker</string>
-		<key>available</key>
-		<true/>
+		<key>in_review</key>
+		<false/>
 	</dict>
 	<dict>
 		<key>title</key>
@@ -70,8 +84,8 @@
 		<string>softeam</string>
 		<key>bundleId</key>
 		<string>com.softeam.guests</string>
-		<key>available</key>
-		<true/>
+		<key>in_review</key>
+		<false/>
 	</dict>
 </array>
 </plist>
