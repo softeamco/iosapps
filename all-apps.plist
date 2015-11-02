@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>Контроль скорости – сэкономь на штрафах ГИБДД с цифровым GPS спидометром</string>
+		<key>appstore_id</key>
+		<string>1052713630</string>
+		<key>description</key>
+		<string>– Экономьте на штрафах ГИБДД с нашим Антирадаром;
+– Установите контроль скорости и приложение предупредит при превышении скорости;
+– Замерьте ускорение вашего авто с помощью телефона. Новая продвинутая технология использует связку GPS и акселерометра для измерения ускорения;
+– Один из самых красивый спидометров для iOS.</string>
+		<key>account</key>
+		<string>semenov</string>
+		<key>available</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Где мое авто – найти машину на парковке, в лесу и в городе</string>
+		<key>appstore_id</key>
+		<string>1052721252</string>
+		<key>description</key>
+		<string>Паркуйтесь, где и когда угодно – даже в незнакомом месте! &quot;Где мое авто&quot; всегда поможет выйти из неприятной ситуации и найти авто, где бы оно ни находилось.</string>
+		<key>account</key>
+		<string>semenov</string>
+		<key>available</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Локатор друзей из ВКонтакте</string>
+		<key>appstore_id</key>
+		<string></string>
+		<key>description</key>
+		<string>Хочешь всегда знать, кого добавила в друзья твоя девушка? Или кого удалил из друзей ВК твой парень? Твой начальник, кумир или одногруппник? &quot;Локатор друзей&quot; поможет тебе всегда оставаться в курсе событий!</string>
+		<key>account</key>
+		<string>semenov</string>
+		<key>available</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Блокировщик рекламы для браузера – заблокируй рекламу в своем Safari</string>
+		<key>appstore_id</key>
+		<string>1052718774</string>
+		<key>description</key>
+		<string>Блокируйте рекламу на своих любимых сайтах, наслаждайтесь контентом без рекламы!</string>
+		<key>account</key>
+		<string>semenov</string>
+		<key>available</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Гости из ВКонтакте</string>
+		<key>appstore_id</key>
+		<string>1046894608</string>
+		<key>description</key>
+		<string>Хочешь знать, кто заходил на твою страницу ВКонтакте? Например, твой бывший парень, девушка, твой начальник или таинственный незнакомец? Мы разработали уникальный алгоритм, который с высокой точностью определит, кто посещал твою страничку VK.</string>
+		<key>account</key>
+		<string>softeam</string>
+		<key>available</key>
+		<true/>
+	</dict>
+</array>
+</plist>
