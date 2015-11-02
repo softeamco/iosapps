@@ -62,6 +62,8 @@
 		<string>Хочешь всегда знать, кого добавила в друзья твоя девушка? Или кого удалил из друзей ВК твой парень? Твой начальник, кумир или одногруппник? &quot;Локатор друзей&quot; поможет тебе всегда оставаться в курсе событий!</string>
 		<key>account</key>
 		<string>semenov</string>
+		<key>bundleId</key>
+		<string>com.maximsemenov.friends-locator</string>
 		<key>in_review</key>
 		<false/>
 		<key>available</key>
