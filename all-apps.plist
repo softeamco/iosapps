@@ -14,6 +14,8 @@
 – Один из самых красивый спидометров для iOS.</string>
 		<key>account</key>
 		<string>semenov</string>
+		<key>bundleId</key>
+		<string>com.maximsemenov.Speedometer</string>
 		<key>available</key>
 		<true/>
 	</dict>
@@ -26,6 +28,8 @@
 		<string>Паркуйтесь, где и когда угодно – даже в незнакомом месте! &quot;Где мое авто&quot; всегда поможет выйти из неприятной ситуации и найти авто, где бы оно ни находилось.</string>
 		<key>account</key>
 		<string>semenov</string>
+		<key>bundleId</key>
+		<string>com.maximsemenov.car-detector</string>
 		<key>available</key>
 		<true/>
 	</dict>
@@ -39,7 +43,7 @@
 		<key>account</key>
 		<string>semenov</string>
 		<key>available</key>
-		<true/>
+		<false/>
 	</dict>
 	<dict>
 		<key>title</key>
@@ -50,6 +54,8 @@
 		<string>Блокируйте рекламу на своих любимых сайтах, наслаждайтесь контентом без рекламы!</string>
 		<key>account</key>
 		<string>semenov</string>
+		<key>bundleId</key>
+		<string>com.maximsemenov.adblocker</string>
 		<key>available</key>
 		<true/>
 	</dict>
@@ -62,6 +68,8 @@
 		<string>Хочешь знать, кто заходил на твою страницу ВКонтакте? Например, твой бывший парень, девушка, твой начальник или таинственный незнакомец? Мы разработали уникальный алгоритм, который с высокой точностью определит, кто посещал твою страничку VK.</string>
 		<key>account</key>
 		<string>softeam</string>
+		<key>bundleId</key>
+		<string>com.softeam.guests</string>
 		<key>available</key>
 		<true/>
 	</dict>
