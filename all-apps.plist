@@ -16,7 +16,7 @@
 		<key>in_review</key>
 		<false/>
 		<key>available</key>
-		<true/>
+		<false/>
 	</dict>
 	<dict>
 		<key>title</key>
@@ -51,7 +51,7 @@
 		<key>in_review</key>
 		<false/>
 		<key>available</key>
-		<true/>
+		<false/>
 	</dict>
 	<dict>
 		<key>title</key>
@@ -65,9 +65,9 @@
 		<key>bundleId</key>
 		<string>com.maximsemenov.friends-locator</string>
 		<key>in_review</key>
-		<false/>
-		<key>available</key>
 		<true/>
+		<key>available</key>
+		<false/>
 	</dict>
 	<dict>
 		<key>title</key>
@@ -83,7 +83,7 @@
 		<key>in_review</key>
 		<false/>
 		<key>available</key>
-		<true/>
+		<false/>
 	</dict>
 	<dict>
 		<key>title</key>
@@ -99,7 +99,7 @@
 		<key>in_review</key>
 		<false/>
 		<key>available</key>
-		<true/>
+		<false/>
 	</dict>
 </array>
 </plist>
