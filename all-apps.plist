@@ -65,7 +65,7 @@
 		<key>bundleId</key>
 		<string>com.maximsemenov.friends-locator</string>
 		<key>in_review</key>
-		<true/>
+		<false/>
 		<key>available</key>
 		<false/>
 	</dict>
