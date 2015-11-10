@@ -81,7 +81,7 @@
 		<key>bundleId</key>
 		<string>com.maximsemenov.adblocker</string>
 		<key>in_review</key>
-		<false/>
+		<true/>
 		<key>available</key>
 		<false/>
 	</dict>
