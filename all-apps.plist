@@ -49,7 +49,7 @@
 		<key>bundleId</key>
 		<string>com.maximsemenov.car-detector</string>
 		<key>in_review</key>
-		<false/>
+		<true/>
 		<key>available</key>
 		<false/>
 	</dict>
@@ -81,9 +81,9 @@
 		<key>bundleId</key>
 		<string>com.maximsemenov.adblocker</string>
 		<key>in_review</key>
-		<true/>
-		<key>available</key>
 		<false/>
+		<key>available</key>
+		<true/>
 	</dict>
 	<dict>
 		<key>title</key>
