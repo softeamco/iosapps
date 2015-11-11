@@ -4,15 +4,34 @@
 <array>
 	<dict>
 		<key>title</key>
-		<string>Акции</string>
+		<string>Main</string>
 		<key>url</key>
-		<string>http://rbk.ru</string>
+		<string>http://spotsid.com/desktop.bundles/index/index.html</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>Новости</string>
+		<string>Chat</string>
 		<key>url</key>
-		<string>http://mail.ru</string>
+		<string>http://spotsid.com/desktop.bundles/chat/chat.html</string>
 	</dict>
+	<dict>
+		<key>title</key>
+		<string>Events</string>
+		<key>url</key>
+		<string>http://spotsid.com/desktop.bundles/events/events.html</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Map</string>
+		<key>url</key>
+		<string>http://spotsid.com/desktop.bundles/map/map.html</string>
+	</dict>
+		<dict>
+		<key>title</key>
+		<string>Settings</string>
+		<key>url</key>
+		<string>http://spotsid.com/desktop.bundles/settings/settings.html</string>
+	</dict>
+	
 </array>
 </plist>
