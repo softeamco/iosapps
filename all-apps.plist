@@ -33,7 +33,7 @@
 		<key>bundleId</key>
 		<string>com.maximsemenov.Speedometer</string>
 		<key>in_review</key>
-		<false/>
+		<true/>
 		<key>available</key>
 		<true/>
 	</dict>
@@ -49,9 +49,9 @@
 		<key>bundleId</key>
 		<string>com.maximsemenov.car-detector</string>
 		<key>in_review</key>
-		<true/>
-		<key>available</key>
 		<false/>
+		<key>available</key>
+		<true/>
 	</dict>
 	<dict>
 		<key>title</key>
