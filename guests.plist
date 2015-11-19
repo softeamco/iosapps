@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>50_likes</key>
+	<integer>30</integer>
 	<key>100_likes</key>
 	<integer>50</integer>
 	<key>200_likes</key>
@@ -14,6 +16,8 @@
 	<integer>100</integer>
 	<key>200_followers</key>
 	<integer>200</integer>
+	<key>300_followers</key>
+	<integer>300</integer>
 	<key>500_followers</key>
 	<integer>500</integer>
 	<key>1000_followers</key>
