@@ -33,7 +33,7 @@
 		<key>bundleId</key>
 		<string>com.maximsemenov.Speedometer</string>
 		<key>in_review</key>
-		<true/>
+		<false/>
 		<key>available</key>
 		<true/>
 	</dict>
