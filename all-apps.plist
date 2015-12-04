@@ -40,6 +40,22 @@
 	</dict>
 	<dict>
 		<key>title</key>
+		<string>Слежка для ВКонтакте</string>
+		<key>appstore_id</key>
+		<string>1055100571</string>
+		<key>description</key>
+		<string>Хочешь всегда знать, кого добавила в друзья твоя девушка? Или кого удалил из друзей ВК твой парень? Твой начальник, кумир или одногруппник? &quot;Локатор друзей&quot; поможет тебе всегда оставаться в курсе событий!</string>
+		<key>account</key>
+		<string>semenov</string>
+		<key>bundleId</key>
+		<string>com.maximsemenov.friends-locator</string>
+		<key>in_review</key>
+		<false/>
+		<key>available</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>title</key>
 		<string>VIN-коды – проверь авто на угон</string>
 		<key>appstore_id</key>
 		<string>11111111</string>
@@ -84,22 +100,6 @@
 		<string>semenov</string>
 		<key>bundleId</key>
 		<string>com.maximsemenov.car-detector</string>
-		<key>in_review</key>
-		<false/>
-		<key>available</key>
-		<true/>
-	</dict>
-	<dict>
-		<key>title</key>
-		<string>Локатор друзей из ВКонтакте</string>
-		<key>appstore_id</key>
-		<string>1055100571</string>
-		<key>description</key>
-		<string>Хочешь всегда знать, кого добавила в друзья твоя девушка? Или кого удалил из друзей ВК твой парень? Твой начальник, кумир или одногруппник? &quot;Локатор друзей&quot; поможет тебе всегда оставаться в курсе событий!</string>
-		<key>account</key>
-		<string>semenov</string>
-		<key>bundleId</key>
-		<string>com.maximsemenov.friends-locator</string>
 		<key>in_review</key>
 		<false/>
 		<key>available</key>
