@@ -4,6 +4,42 @@
 <array>
 	<dict>
 		<key>title</key>
+		<string>На каждый день</string>
+		<key>appstore_id</key>
+		<string>1061995194</string>
+		<key>description</key>
+		<string>Пакет из 4 приложений на каждый день</string>
+		<key>account</key>
+		<string>semenov</string>
+		<key>bundleId</key>
+		<string></string>
+		<key>in_review</key>
+		<false/>
+		<key>available</key>
+		<true/>
+		<key>url</key>
+		<string>https://itunes.apple.com/ru/app-bundle/na-kazdyj-den/id1061995194?mt=8</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Автомобильный пакет</string>
+		<key>appstore_id</key>
+		<string>1061993909</string>
+		<key>description</key>
+		<string>Приложения для автомобилистов: антирадар и поиск автомобиля на парковке</string>
+		<key>account</key>
+		<string>semenov</string>
+		<key>bundleId</key>
+		<string></string>
+		<key>in_review</key>
+		<false/>
+		<key>available</key>
+		<true/>
+		<key>url</key>
+		<string>https://itunes.apple.com/ru/app-bundle/avtomobil-nyj-paket/id1061993909?mt=8</string>
+	</dict>
+	<dict>
+		<key>title</key>
 		<string>VIN-коды – проверь авто на угон</string>
 		<key>appstore_id</key>
 		<string>11111111</string>
