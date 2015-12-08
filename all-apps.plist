@@ -56,19 +56,21 @@
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>VIN-коды – проверь авто на угон</string>
+		<string>Проверка VIN кода автомобиля через базу ГИБДД и ГАИ</string>
 		<key>appstore_id</key>
-		<string>11111111</string>
+		<string>1063251125</string>
 		<key>description</key>
-		<string>тут будет описание</string>
+		<string>Покупаете автомобиль &quot;с рук&quot;? Хотите обезопасить себя? Проверьте VIN-код автомобиля с помощью нашего приложения.</string>
 		<key>account</key>
 		<string>semenov</string>
+		<key>url</key>
+		<string>https://itunes.apple.com/ru/app/proverka-vin-koda-avtomobila/id1063251125?l=ru&amp;ls=1&amp;mt=8</string>
 		<key>bundleId</key>
-		<string>com.maximsemenov.vincodes</string>
+		<string>com.maximsemenov.vin-codes</string>
 		<key>in_review</key>
 		<false/>
 		<key>available</key>
-		<false/>
+		<true/>
 	</dict>
 	<dict>
 		<key>title</key>
