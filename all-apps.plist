@@ -64,7 +64,7 @@
 		<key>account</key>
 		<string>semenov</string>
 		<key>bundleId</key>
-		<string>com.maximsemenov.friends-locator</string>
+		<string>com.maximsemenov.generator</string>
 		<key>in_review</key>
 		<false/>
 		<key>available</key>
