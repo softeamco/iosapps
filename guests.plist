@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>50_likes</key>
-	<integer>30</integer>
+	<integer>29</integer>
 	<key>100_likes</key>
-	<integer>50</integer>
+	<integer>49</integer>
 	<key>200_likes</key>
-	<integer>100</integer>
+	<integer>99</integer>
 	<key>500_likes</key>
-	<integer>200</integer>
+	<integer>219</integer>
 	<key>1000_likes</key>
-	<integer>300</integer>
+	<integer>399</integer>
 	<key>100_followers</key>
-	<integer>100</integer>
+	<integer>99</integer>
 	<key>200_followers</key>
-	<integer>200</integer>
+	<integer>199</integer>
 	<key>300_followers</key>
-	<integer>300</integer>
+	<integer>299</integer>
 	<key>500_followers</key>
-	<integer>500</integer>
+	<integer>499</integer>
 	<key>1000_followers</key>
-	<integer>1000</integer>
+	<integer>999</integer>
 </dict>
 </plist>
