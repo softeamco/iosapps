@@ -68,7 +68,7 @@
 		<key>in_review</key>
 		<false/>
 		<key>available</key>
-		<true/>
+		<false/>
 	</dict>
 	<dict>
 		<key>title</key>
