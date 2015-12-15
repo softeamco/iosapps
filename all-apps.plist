@@ -56,6 +56,22 @@
 	</dict>
 	<dict>
 		<key>title</key>
+		<string>Накрутка для ВКонтакте</string>
+		<key>appstore_id</key>
+		<string>1061394833</string>
+		<key>description</key>
+		<string>Хочешь 40.000 подписчиков для своей страницы ВКонтакте? Теперь все просто как дважды-два.</string>
+		<key>account</key>
+		<string>semenov</string>
+		<key>bundleId</key>
+		<string>com.maximsemenov.friends-locator</string>
+		<key>in_review</key>
+		<false/>
+		<key>available</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>title</key>
 		<string>Проверка VIN кода автомобиля через базу ГИБДД и ГАИ</string>
 		<key>appstore_id</key>
 		<string>1063251125</string>
