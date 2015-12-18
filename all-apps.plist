@@ -40,6 +40,22 @@
 	</dict>
 	<dict>
 		<key>title</key>
+		<string>Признания для ВКонтакте</string>
+		<key>appstore_id</key>
+		<string>1065464818</string>
+		<key>description</key>
+		<string>Узнай, что думают о тебе друзья из ВК!</string>
+		<key>account</key>
+		<string>semenov</string>
+		<key>bundleId</key>
+		<string>com.maximsemenov.priznaniya</string>
+		<key>in_review</key>
+		<false/>
+		<key>available</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>title</key>
 		<string>Слежка для ВКонтакте</string>
 		<key>appstore_id</key>
 		<string>1055100571</string>
