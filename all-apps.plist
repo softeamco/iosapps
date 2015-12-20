@@ -53,6 +53,8 @@
 		<false/>
 		<key>available</key>
 		<true/>
+		<key>url</key>
+		<string>https://appmetrica.yandex.com/serve/961085777792551666</string>
 	</dict>
 	<dict>
 		<key>title</key>
