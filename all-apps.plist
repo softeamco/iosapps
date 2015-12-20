@@ -52,7 +52,7 @@
 		<key>in_review</key>
 		<false/>
 		<key>available</key>
-		<false/>
+		<true/>
 	</dict>
 	<dict>
 		<key>title</key>
