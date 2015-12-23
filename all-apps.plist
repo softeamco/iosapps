@@ -74,6 +74,22 @@
 	</dict>
 	<dict>
 		<key>title</key>
+		<string>Плеер ВТакте</string>
+		<key>appstore_id</key>
+		<string>1055369467</string>
+		<key>description</key>
+		<string>Легендарный музыкальный плеер возвращается в новом воплощении! Слушайте вашу любимую музыку из облачных сервисов: Dropbox и Google Drive.</string>
+		<key>account</key>
+		<string>semenov</string>
+		<key>bundleId</key>
+		<string>com.maximsemenov.vtakte</string>
+		<key>in_review</key>
+		<false/>
+		<key>available</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>title</key>
 		<string>Накрутка для ВКонтакте</string>
 		<key>appstore_id</key>
 		<string>1061394833</string>
