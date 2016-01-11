@@ -44,7 +44,7 @@
 		<key>appstore_id</key>
 		<string>1065464818</string>
 		<key>description</key>
-		<string>Узнай, что думают о тебе друзья из ВКонтакте!</string>
+		<string>Узнай, что думают о тебе друзья! Приложение бесплатно</string>
 		<key>account</key>
 		<string>semenov</string>
 		<key>bundleId</key>
@@ -78,7 +78,7 @@
 		<key>appstore_id</key>
 		<string>1055369467</string>
 		<key>description</key>
-		<string>Легендарный музыкальный плеер возвращается в новом воплощении! Слушайте вашу любимую музыку из облачных сервисов: Dropbox и Google Drive.</string>
+		<string>Легендарный музыкальный плеер для ВКонтакте возвращается</string>
 		<key>account</key>
 		<string>semenov</string>
 		<key>bundleId</key>
