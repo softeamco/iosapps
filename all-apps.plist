@@ -40,6 +40,22 @@
 	</dict>
 	<dict>
 		<key>title</key>
+		<string>Гости из ВКонтакте</string>
+		<key>appstore_id</key>
+		<string>1046894608</string>
+		<key>description</key>
+		<string>Узнай, кто заходил на твою страницу ВКонтакте!</string>
+		<key>account</key>
+		<string>softeam</string>
+		<key>bundleId</key>
+		<string>com.softeam.guests</string>
+		<key>in_review</key>
+		<false/>
+		<key>available</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>title</key>
 		<string>Признания для ВКонтакте</string>
 		<key>appstore_id</key>
 		<string>1065464818</string>
@@ -172,22 +188,6 @@
 		<false/>
 		<key>available</key>
 		<true/>
-	</dict>
-	<dict>
-		<key>title</key>
-		<string>Гости из ВКонтакте</string>
-		<key>appstore_id</key>
-		<string>1046894608</string>
-		<key>description</key>
-		<string>Хочешь знать, кто заходил на твою страницу ВКонтакте? Например, твой бывший парень, девушка, твой начальник или таинственный незнакомец? Мы разработали уникальный алгоритм, который с высокой точностью определит, кто посещал твою страничку VK.</string>
-		<key>account</key>
-		<string>softeam</string>
-		<key>bundleId</key>
-		<string>com.softeam.guests</string>
-		<key>in_review</key>
-		<false/>
-		<key>available</key>
-		<false/>
 	</dict>
 </array>
 </plist>
