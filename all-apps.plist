@@ -4,6 +4,56 @@
 <array>
 	<dict>
 		<key>title</key>
+		<string>Контакт для ВКонтакте</string>
+		<key>appstore_id</key>
+		<string>1090754155</string>
+		<key>description</key>
+		<string>Лучший клиент для ВКонтакте. Бесплатно.</string>
+		<key>account</key>
+		<string>semenov</string>
+		<key>bundleId</key>
+		<string>com.maximsemenov.kontact</string>
+		<key>in_review</key>
+		<false/>
+		<key>available</key>
+		<true/>
+		<key>url</key>
+		<string>https://appmetrica.yandex.com/serve/96526752800634863</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Слежка для ВКонтакте</string>
+		<key>appstore_id</key>
+		<string>1055100571</string>
+		<key>description</key>
+		<string>Хочешь всегда знать, кого добавила в друзья твоя девушка? Или кого удалил из друзей ВК твой парень? Твой начальник, кумир или одногруппник? &quot;Локатор друзей&quot; поможет тебе всегда оставаться в курсе событий!</string>
+		<key>account</key>
+		<string>semenov</string>
+		<key>bundleId</key>
+		<string>com.maximsemenov.friends-locator</string>
+		<key>in_review</key>
+		<false/>
+		<key>available</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Гости из ВКонтакте</string>
+		<key>appstore_id</key>
+		<string>1046894608</string>
+		<key>description</key>
+		<string>Узнай, кто заходил на твою страницу ВКонтакте!</string>
+		<key>account</key>
+		<string>softeam</string>
+		<key>bundleId</key>
+		<string>com.softeam.guests</string>
+		<key>in_review</key>
+		<false/>
+		<key>available</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>title</key>
 		<string>На каждый день</string>
 		<key>appstore_id</key>
 		<string>1061995194</string>
@@ -37,56 +87,6 @@
 		<true/>
 		<key>url</key>
 		<string>https://itunes.apple.com/ru/app-bundle/avtomobil-nyj-paket/id1061993909?mt=8</string>
-	</dict>
-	<dict>
-		<key>title</key>
-		<string>Гости из ВКонтакте</string>
-		<key>appstore_id</key>
-		<string>1046894608</string>
-		<key>description</key>
-		<string>Узнай, кто заходил на твою страницу ВКонтакте!</string>
-		<key>account</key>
-		<string>softeam</string>
-		<key>bundleId</key>
-		<string>com.softeam.guests</string>
-		<key>in_review</key>
-		<false/>
-		<key>available</key>
-		<true/>
-	</dict>
-	<dict>
-		<key>title</key>
-		<string>Признания для ВКонтакте</string>
-		<key>appstore_id</key>
-		<string>1065464818</string>
-		<key>description</key>
-		<string>Узнай, что думают о тебе друзья! Приложение бесплатно</string>
-		<key>account</key>
-		<string>semenov</string>
-		<key>bundleId</key>
-		<string>com.maximsemenov.priznaniya</string>
-		<key>in_review</key>
-		<false/>
-		<key>available</key>
-		<false/>
-		<key>url</key>
-		<string>https://appmetrica.yandex.com/serve/961085777792551666</string>
-	</dict>
-	<dict>
-		<key>title</key>
-		<string>Слежка для ВКонтакте</string>
-		<key>appstore_id</key>
-		<string>1055100571</string>
-		<key>description</key>
-		<string>Хочешь всегда знать, кого добавила в друзья твоя девушка? Или кого удалил из друзей ВК твой парень? Твой начальник, кумир или одногруппник? &quot;Локатор друзей&quot; поможет тебе всегда оставаться в курсе событий!</string>
-		<key>account</key>
-		<string>semenov</string>
-		<key>bundleId</key>
-		<string>com.maximsemenov.friends-locator</string>
-		<key>in_review</key>
-		<false/>
-		<key>available</key>
-		<true/>
 	</dict>
 	<dict>
 		<key>title</key>
