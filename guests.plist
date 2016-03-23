@@ -23,6 +23,6 @@
 	<key>1000_followers</key>
 	<integer>2000</integer>
 	<key>open_guest</key>
-	<integer>100</integer>
+	<integer>75</integer>
 </dict>
 </plist>
