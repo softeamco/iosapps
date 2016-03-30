@@ -22,6 +22,24 @@
 	</dict>
 	<dict>
 		<key>title</key>
+		<string>Гости ВКонтакте PRO</string>
+		<key>appstore_id</key>
+		<string>1074859831</string>
+		<key>description</key>
+		<string>Узнай скрытых гостей своей страницы Бесплатно!</string>
+		<key>account</key>
+		<string>semenov</string>
+		<key>bundleId</key>
+		<string>com.maximsemenov.guests</string>
+		<key>in_review</key>
+		<false/>
+		<key>available</key>
+		<true/>
+		<key>url</key>
+		<string>https://appmetrica.yandex.com/serve/312713783099293070</string>
+	</dict>
+	<dict>
+		<key>title</key>
 		<string>Слежка для ВКонтакте</string>
 		<key>appstore_id</key>
 		<string>1055100571</string>
