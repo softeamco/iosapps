@@ -26,7 +26,7 @@
 		<key>appstore_id</key>
 		<string>1074859831</string>
 		<key>description</key>
-		<string>Узнай скрытых гостей своей страницы Бесплатно!</string>
+		<string>Узнай всех скрытых гостей своей страницы БЕСПЛАТНО!</string>
 		<key>account</key>
 		<string>semenov</string>
 		<key>bundleId</key>
@@ -68,7 +68,7 @@
 		<key>in_review</key>
 		<false/>
 		<key>available</key>
-		<true/>
+		<false/>
 	</dict>
 	<dict>
 		<key>title</key>
