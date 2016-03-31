@@ -76,7 +76,7 @@
 		<key>show_in_kontakt</key>
 		<true/>
 		<key>available</key>
-		<false/>
+		<true/>
 	</dict>
 	<dict>
 		<key>title</key>
@@ -130,7 +130,7 @@
 		<key>bundleId</key>
 		<string>com.maximsemenov.vtakte</string>
 		<key>in_review</key>
-		<true/>
+		<false/>
 		<key>show_in_kontakt</key>
 		<true/>
 		<key>available</key>
@@ -152,7 +152,7 @@
 		<key>show_in_kontakt</key>
 		<true/>
 		<key>available</key>
-		<false/>
+		<true/>
 	</dict>
 	<dict>
 		<key>title</key>
