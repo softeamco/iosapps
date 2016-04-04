@@ -24,5 +24,7 @@
 	<integer>2000</integer>
 	<key>open_guest</key>
 	<integer>1</integer>
+	<key>ads_enabled</key>
+	<true/>
 </dict>
 </plist>
