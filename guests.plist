@@ -26,5 +26,7 @@
 	<integer>1</integer>
 	<key>ads_enabled</key>
 	<true/>
+	<key>free_guests</key>
+	<integer>3</integer>
 </dict>
 </plist>
