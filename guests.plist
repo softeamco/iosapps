@@ -25,7 +25,7 @@
 	<key>open_guest</key>
 	<integer>1</integer>
 	<key>ads_enabled</key>
-	<true/>
+	<false/>
 	<key>free_guests</key>
 	<integer>3</integer>
 </dict>
