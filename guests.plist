@@ -26,6 +26,8 @@
 	<integer>1</integer>
 	<key>ads_enabled</key>
 	<false/>
+	<key>guests_pro_appodeal_enabled</key>
+	<true/>
 	<key>free_guests</key>
 	<integer>3</integer>
 </dict>
