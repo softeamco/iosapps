@@ -36,5 +36,7 @@
 	<integer>3</integer>
 	<key>free_photoguests</key>
 	<integer>3</integer>
+	<key>open_photoguests</key>
+	<integer>30</integer>
 </dict>
 </plist>
