@@ -25,8 +25,18 @@
 	<key>open_guest</key>
 	<integer>1</integer>
 	<key>ads_enabled</key>
+	<false/>
+	<key>guests_pro_appodeal_enabled</key>
+	<true/>
+	<key>photoguests_pro_appodeal_enabled</key>
+	<true/>
+	<key>photoguests_appodeal_enabled</key>
 	<true/>
 	<key>free_guests</key>
 	<integer>3</integer>
+	<key>free_photoguests</key>
+	<integer>3</integer>
+	<key>open_photoguests</key>
+	<integer>30</integer>
 </dict>
 </plist>
