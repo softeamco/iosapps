@@ -62,6 +62,24 @@
 	</dict>
 	<dict>
 		<key>title</key>
+		<string>Фотогости для ВКонтакте</string>
+		<key>appstore_id</key>
+		<string>1110835048</string>
+		<key>description</key>
+		<string>Узнай, кто просматривал твои фотки во ВКонтакте!</string>
+		<key>account</key>
+		<string>fedor</string>
+		<key>bundleId</key>
+		<string>com.fedorlukin.photoguests</string>
+		<key>in_review</key>
+		<true/>
+		<key>show_in_kontakt</key>
+		<false/>
+		<key>available</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>title</key>
 		<string>Гости из ВКонтакте</string>
 		<key>appstore_id</key>
 		<string>1046894608</string>
@@ -75,6 +93,24 @@
 		<false/>
 		<key>show_in_kontakt</key>
 		<true/>
+		<key>available</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Фотогости для ВКонтакте PRO</string>
+		<key>appstore_id</key>
+		<string>1110836655</string>
+		<key>description</key>
+		<string>Узнай, кто просматривал твои фотки во ВКонтакте!</string>
+		<key>account</key>
+		<string>fedor</string>
+		<key>bundleId</key>
+		<string>com.fedorlukin.photoguests.pro</string>
+		<key>in_review</key>
+		<true/>
+		<key>show_in_kontakt</key>
+		<false/>
 		<key>available</key>
 		<true/>
 	</dict>
