@@ -29,9 +29,9 @@
 	<key>guests_pro_appodeal_enabled</key>
 	<true/>
 	<key>photoguests_pro_appodeal_enabled</key>
-	<true/>
+	<false/>
 	<key>photoguests_appodeal_enabled</key>
-	<true/>
+	<false/>
 	<key>free_guests</key>
 	<integer>3</integer>
 	<key>free_photoguests</key>
