@@ -44,6 +44,24 @@
 	</dict>
 	<dict>
 		<key>title</key>
+		<string>Слежка для Instagram</string>
+		<key>appstore_id</key>
+		<string>1055100571</string>
+		<key>description</key>
+		<string>Хочешь узнать, кто отписался от тебя в Instagram? Установи это приложение</string>
+		<key>account</key>
+		<string>fedor</string>
+		<key>bundleId</key>
+		<string>com.fedorlukin.instalocator</string>
+		<key>in_review</key>
+		<true/>
+		<key>show_in_kontakt</key>
+		<true/>
+		<key>available</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>title</key>
 		<string>Слежка для ВКонтакте</string>
 		<key>appstore_id</key>
 		<string>1055100571</string>
