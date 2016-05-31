@@ -23,6 +23,6 @@
 	<key>1000_followers</key>
 	<integer>2000</integer>
 	<key>instalocator_appodeal_enabled</key>
-	<false/>
+	<true/>
 </dict>
 </plist>
