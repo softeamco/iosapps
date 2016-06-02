@@ -1,0 +1,1 @@
+https://www.instagram.com/oauth/authorize?client_id=c0a94fa83f674942ba7b41d184b8a455&redirect_uri=LT://&response_type=token&scope=basic+public_content+follower_list
