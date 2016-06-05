@@ -24,31 +24,29 @@
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>Гости ВКонтакте PRO</string>
+		<string>Гости ВКонтакте</string>
 		<key>appstore_id</key>
-		<string>1074859831</string>
+		<string>1046894608</string>
 		<key>description</key>
-		<string>Узнай всех скрытых гостей своей страницы БЕСПЛАТНО!</string>
+		<string>Узнай, кто заходил на твою страницу ВКонтакте!</string>
 		<key>account</key>
-		<string>semenov</string>
+		<string>softeam</string>
 		<key>bundleId</key>
-		<string>com.maximsemenov.guests</string>
+		<string>com.softeam.guests</string>
 		<key>in_review</key>
 		<false/>
-		<key>available</key>
-		<true/>
 		<key>show_in_kontakt</key>
 		<true/>
-		<key>url</key>
-		<string>https://appmetrica.yandex.com/serve/312713783099293070</string>
+		<key>available</key>
+		<true/>
 	</dict>
 	<dict>
 		<key>title</key>
 		<string>Слежка для Instagram</string>
 		<key>appstore_id</key>
-		<string>1055100571</string>
+		<string>1114314197</string>
 		<key>description</key>
-		<string>Хочешь узнать, кто отписался от тебя в Instagram? Установи это приложение</string>
+		<string>Установи СЛЕЖКУ за своими подписчиками!</string>
 		<key>account</key>
 		<string>fedor</string>
 		<key>bundleId</key>
@@ -80,7 +78,7 @@
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>Фотогости для ВКонтакте</string>
+		<string>Гости фото для ВКонтакте</string>
 		<key>appstore_id</key>
 		<string>1110835048</string>
 		<key>description</key>
@@ -90,45 +88,9 @@
 		<key>bundleId</key>
 		<string>com.fedorlukin.photoguests</string>
 		<key>in_review</key>
-		<true/>
-		<key>show_in_kontakt</key>
-		<false/>
-		<key>available</key>
-		<true/>
-	</dict>
-	<dict>
-		<key>title</key>
-		<string>Гости из ВКонтакте</string>
-		<key>appstore_id</key>
-		<string>1046894608</string>
-		<key>description</key>
-		<string>Узнай, кто заходил на твою страницу ВКонтакте!</string>
-		<key>account</key>
-		<string>softeam</string>
-		<key>bundleId</key>
-		<string>com.softeam.guests</string>
-		<key>in_review</key>
 		<false/>
 		<key>show_in_kontakt</key>
 		<true/>
-		<key>available</key>
-		<true/>
-	</dict>
-	<dict>
-		<key>title</key>
-		<string>Фотогости для ВКонтакте PRO</string>
-		<key>appstore_id</key>
-		<string>1110836655</string>
-		<key>description</key>
-		<string>Узнай, кто просматривал твои фотки во ВКонтакте!</string>
-		<key>account</key>
-		<string>fedor</string>
-		<key>bundleId</key>
-		<string>com.fedorlukin.photoguests.pro</string>
-		<key>in_review</key>
-		<true/>
-		<key>show_in_kontakt</key>
-		<false/>
 		<key>available</key>
 		<true/>
 	</dict>
@@ -201,6 +163,44 @@
 		<string>semenov</string>
 		<key>bundleId</key>
 		<string>com.maximsemenov.generator</string>
+		<key>in_review</key>
+		<false/>
+		<key>show_in_kontakt</key>
+		<true/>
+		<key>available</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Гости ВКонтакте PRO</string>
+		<key>appstore_id</key>
+		<string>1074859831</string>
+		<key>description</key>
+		<string>Узнай всех скрытых гостей своей страницы бесплатно!</string>
+		<key>account</key>
+		<string>semenov</string>
+		<key>bundleId</key>
+		<string>com.maximsemenov.guests</string>
+		<key>in_review</key>
+		<false/>
+		<key>available</key>
+		<true/>
+		<key>show_in_kontakt</key>
+		<true/>
+		<key>url</key>
+		<string>https://appmetrica.yandex.com/serve/312713783099293070</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Фотогости для ВКонтакте PRO</string>
+		<key>appstore_id</key>
+		<string>1110836655</string>
+		<key>description</key>
+		<string>Узнай, кто просматривал твои фотки во ВКонтакте бесплатно!</string>
+		<key>account</key>
+		<string>fedor</string>
+		<key>bundleId</key>
+		<string>com.fedorlukin.photoguests.pro</string>
 		<key>in_review</key>
 		<false/>
 		<key>show_in_kontakt</key>
