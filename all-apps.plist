@@ -152,44 +152,6 @@
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>Гости ВКонтакте PRO</string>
-		<key>appstore_id</key>
-		<string>1074859831</string>
-		<key>description</key>
-		<string>Узнай всех скрытых гостей своей страницы бесплатно!</string>
-		<key>account</key>
-		<string>semenov</string>
-		<key>bundleId</key>
-		<string>com.maximsemenov.guests</string>
-		<key>in_review</key>
-		<false/>
-		<key>available</key>
-		<true/>
-		<key>show_in_kontakt</key>
-		<true/>
-		<key>url</key>
-		<string>https://appmetrica.yandex.com/serve/312713783099293070</string>
-	</dict>
-	<dict>
-		<key>title</key>
-		<string>Фотогости для ВКонтакте PRO</string>
-		<key>appstore_id</key>
-		<string>1110836655</string>
-		<key>description</key>
-		<string>Узнай, кто просматривал твои фотки во ВКонтакте бесплатно!</string>
-		<key>account</key>
-		<string>fedor</string>
-		<key>bundleId</key>
-		<string>com.fedorlukin.photoguests.pro</string>
-		<key>in_review</key>
-		<false/>
-		<key>show_in_kontakt</key>
-		<true/>
-		<key>available</key>
-		<true/>
-	</dict>
-	<dict>
-		<key>title</key>
 		<string>Проверка VIN кода автомобиля через базу ГИБДД и ГАИ</string>
 		<key>appstore_id</key>
 		<string>1063251125</string>
@@ -255,6 +217,44 @@
 		<string>semenov</string>
 		<key>bundleId</key>
 		<string>com.maximsemenov.adblocker</string>
+		<key>in_review</key>
+		<false/>
+		<key>show_in_kontakt</key>
+		<true/>
+		<key>available</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Гости ВКонтакте PRO</string>
+		<key>appstore_id</key>
+		<string>1074859831</string>
+		<key>description</key>
+		<string>Узнай всех скрытых гостей своей страницы бесплатно!</string>
+		<key>account</key>
+		<string>semenov</string>
+		<key>bundleId</key>
+		<string>com.maximsemenov.guests</string>
+		<key>in_review</key>
+		<false/>
+		<key>available</key>
+		<true/>
+		<key>show_in_kontakt</key>
+		<true/>
+		<key>url</key>
+		<string>https://appmetrica.yandex.com/serve/312713783099293070</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Фотогости для ВКонтакте PRO</string>
+		<key>appstore_id</key>
+		<string>1110836655</string>
+		<key>description</key>
+		<string>Узнай, кто просматривал твои фотки во ВКонтакте бесплатно!</string>
+		<key>account</key>
+		<string>fedor</string>
+		<key>bundleId</key>
+		<string>com.fedorlukin.photoguests.pro</string>
 		<key>in_review</key>
 		<false/>
 		<key>show_in_kontakt</key>
