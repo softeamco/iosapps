@@ -54,7 +54,7 @@
 		<key>bundleId</key>
 		<string>com.fedorlukin.instalocator</string>
 		<key>in_review</key>
-		<true/>
+		<false/>
 		<key>show_in_kontakt</key>
 		<true/>
 		<key>available</key>
