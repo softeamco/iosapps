@@ -1,0 +1,20 @@
+var vkGenerator = {
+  like: function() {
+    html = document.querySelectorAll('.item_like')[0];
+    if (html.href.indexOf("act=add") > -1) {
+      document.querySelectorAll('.item_like')[0].click()
+      return true
+    } else {
+      return false;
+    }
+  }
+  subscribe: function() {
+    html = document.querySelectorAll('.wide_button')[document.querySelectorAll('.wide_button').length-1];
+    if (html.href.indexOf("act=accept") > -1) {  
+      document.querySelectorAll('.wide_button')[document.querySelectorAll('.wide_button').length-1].click()  
+      return true
+    } else { 
+      return false 
+    }
+  }
+}
