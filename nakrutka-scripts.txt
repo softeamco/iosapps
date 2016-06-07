@@ -7,7 +7,7 @@ var vkGenerator = {
     } else {
       return false;
     }
-  }
+  },
   subscribe: function() {
     html = document.querySelectorAll('.wide_button')[document.querySelectorAll('.wide_button').length-1];
     if (html.href.indexOf("act=accept") > -1) {  
@@ -17,4 +17,4 @@ var vkGenerator = {
       return false 
     }
   }
-}
+};
