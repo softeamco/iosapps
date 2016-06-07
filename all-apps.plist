@@ -24,81 +24,7 @@
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>Гости ВКонтакте PRO</string>
-		<key>appstore_id</key>
-		<string>1074859831</string>
-		<key>description</key>
-		<string>Узнай всех скрытых гостей своей страницы БЕСПЛАТНО!</string>
-		<key>account</key>
-		<string>semenov</string>
-		<key>bundleId</key>
-		<string>com.maximsemenov.guests</string>
-		<key>in_review</key>
-		<false/>
-		<key>available</key>
-		<true/>
-		<key>show_in_kontakt</key>
-		<true/>
-		<key>url</key>
-		<string>https://appmetrica.yandex.com/serve/312713783099293070</string>
-	</dict>
-	<dict>
-		<key>title</key>
-		<string>Слежка для Instagram</string>
-		<key>appstore_id</key>
-		<string>1055100571</string>
-		<key>description</key>
-		<string>Хочешь узнать, кто отписался от тебя в Instagram? Установи это приложение</string>
-		<key>account</key>
-		<string>fedor</string>
-		<key>bundleId</key>
-		<string>com.fedorlukin.instalocator</string>
-		<key>in_review</key>
-		<true/>
-		<key>show_in_kontakt</key>
-		<true/>
-		<key>available</key>
-		<true/>
-	</dict>
-	<dict>
-		<key>title</key>
-		<string>Слежка для ВКонтакте</string>
-		<key>appstore_id</key>
-		<string>1055100571</string>
-		<key>description</key>
-		<string>Хочешь всегда знать, кого добавила в друзья твоя девушка? Или кого удалил из друзей ВК твой парень? Твой начальник, кумир или одногруппник? &quot;Локатор друзей&quot; поможет тебе всегда оставаться в курсе событий!</string>
-		<key>account</key>
-		<string>semenov</string>
-		<key>bundleId</key>
-		<string>com.maximsemenov.friends-locator</string>
-		<key>in_review</key>
-		<false/>
-		<key>show_in_kontakt</key>
-		<true/>
-		<key>available</key>
-		<true/>
-	</dict>
-	<dict>
-		<key>title</key>
-		<string>Фотогости для ВКонтакте</string>
-		<key>appstore_id</key>
-		<string>1110835048</string>
-		<key>description</key>
-		<string>Узнай, кто просматривал твои фотки во ВКонтакте!</string>
-		<key>account</key>
-		<string>fedor</string>
-		<key>bundleId</key>
-		<string>com.fedorlukin.photoguests</string>
-		<key>in_review</key>
-		<true/>
-		<key>show_in_kontakt</key>
-		<false/>
-		<key>available</key>
-		<true/>
-	</dict>
-	<dict>
-		<key>title</key>
-		<string>Гости из ВКонтакте</string>
+		<string>Гости ВКонтакте</string>
 		<key>appstore_id</key>
 		<string>1046894608</string>
 		<key>description</key>
@@ -116,19 +42,55 @@
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>Фотогости для ВКонтакте PRO</string>
+		<string>Слежка для Instagram</string>
 		<key>appstore_id</key>
-		<string>1110836655</string>
+		<string>1114314197</string>
+		<key>description</key>
+		<string>Установи СЛЕЖКУ за своими подписчиками!</string>
+		<key>account</key>
+		<string>fedor</string>
+		<key>bundleId</key>
+		<string>com.fedorlukin.instalocator</string>
+		<key>in_review</key>
+		<false/>
+		<key>show_in_kontakt</key>
+		<true/>
+		<key>available</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Слежка для ВКонтакте</string>
+		<key>appstore_id</key>
+		<string>1055100571</string>
+		<key>description</key>
+		<string>Скачай локатор и узнай, кого добавила в друзья твоя девушка или парень!</string>
+		<key>account</key>
+		<string>semenov</string>
+		<key>bundleId</key>
+		<string>com.maximsemenov.friends-locator</string>
+		<key>in_review</key>
+		<false/>
+		<key>show_in_kontakt</key>
+		<true/>
+		<key>available</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Гости фото для ВКонтакте</string>
+		<key>appstore_id</key>
+		<string>1110835048</string>
 		<key>description</key>
 		<string>Узнай, кто просматривал твои фотки во ВКонтакте!</string>
 		<key>account</key>
 		<string>fedor</string>
 		<key>bundleId</key>
-		<string>com.fedorlukin.photoguests.pro</string>
+		<string>com.fedorlukin.photoguests</string>
 		<key>in_review</key>
-		<true/>
-		<key>show_in_kontakt</key>
 		<false/>
+		<key>show_in_kontakt</key>
+		<true/>
 		<key>available</key>
 		<true/>
 	</dict>
@@ -148,29 +110,9 @@
 		<key>show_in_kontakt</key>
 		<true/>
 		<key>available</key>
-		<true/>
+		<false/>
 		<key>url</key>
 		<string>https://itunes.apple.com/ru/app-bundle/na-kazdyj-den/id1061995194?mt=8</string>
-	</dict>
-	<dict>
-		<key>title</key>
-		<string>Автомобильный пакет</string>
-		<key>appstore_id</key>
-		<string>1061993909</string>
-		<key>description</key>
-		<string>Приложения для автомобилистов: антирадар и поиск автомобиля на парковке</string>
-		<key>account</key>
-		<string>semenov</string>
-		<key>bundleId</key>
-		<string></string>
-		<key>in_review</key>
-		<false/>
-		<key>show_in_kontakt</key>
-		<true/>
-		<key>available</key>
-		<true/>
-		<key>url</key>
-		<string>https://itunes.apple.com/ru/app-bundle/avtomobil-nyj-paket/id1061993909?mt=8</string>
 	</dict>
 	<dict>
 		<key>title</key>
@@ -196,7 +138,7 @@
 		<key>appstore_id</key>
 		<string>1061394833</string>
 		<key>description</key>
-		<string>Хочешь 40.000 подписчиков для своей страницы ВКонтакте? Теперь все просто как дважды-два.</string>
+		<string>Получи 40.000 подписчиков для своей страницы ВКонтакте!</string>
 		<key>account</key>
 		<string>semenov</string>
 		<key>bundleId</key>
@@ -214,7 +156,7 @@
 		<key>appstore_id</key>
 		<string>1063251125</string>
 		<key>description</key>
-		<string>Покупаете автомобиль &quot;с рук&quot;? Хотите обезопасить себя? Проверьте VIN-код автомобиля с помощью нашего приложения.</string>
+		<string>Покупаете машину &quot;с рук&quot;? Проверьте VIN-код автомобиля!</string>
 		<key>account</key>
 		<string>semenov</string>
 		<key>url</key>
@@ -234,10 +176,7 @@
 		<key>appstore_id</key>
 		<string>1052713630</string>
 		<key>description</key>
-		<string>– Экономьте на штрафах ГИБДД с нашим Антирадаром;
-– Установите контроль скорости и приложение предупредит при превышении скорости;
-– Замерьте ускорение вашего авто с помощью телефона. Новая продвинутая технология использует связку GPS и акселерометра для измерения ускорения;
-– Один из самых красивый спидометров для iOS.</string>
+		<string>Экономьте на штрафах ГИБДД с нашим Антирадаром!</string>
 		<key>account</key>
 		<string>semenov</string>
 		<key>bundleId</key>
@@ -255,7 +194,7 @@
 		<key>appstore_id</key>
 		<string>1052721252</string>
 		<key>description</key>
-		<string>Паркуйтесь, где и когда угодно – даже в незнакомом месте! &quot;Где мое авто&quot; всегда поможет выйти из неприятной ситуации и найти авто, где бы оно ни находилось.</string>
+		<string>Найди свою машину, где бы она ни находилась!</string>
 		<key>account</key>
 		<string>semenov</string>
 		<key>bundleId</key>
@@ -284,6 +223,64 @@
 		<true/>
 		<key>available</key>
 		<true/>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Гости ВКонтакте PRO</string>
+		<key>appstore_id</key>
+		<string>1074859831</string>
+		<key>description</key>
+		<string>Узнай всех скрытых гостей своей страницы бесплатно!</string>
+		<key>account</key>
+		<string>semenov</string>
+		<key>bundleId</key>
+		<string>com.maximsemenov.guests</string>
+		<key>in_review</key>
+		<false/>
+		<key>available</key>
+		<true/>
+		<key>show_in_kontakt</key>
+		<true/>
+		<key>url</key>
+		<string>https://appmetrica.yandex.com/serve/312713783099293070</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Фотогости для ВКонтакте PRO</string>
+		<key>appstore_id</key>
+		<string>1110836655</string>
+		<key>description</key>
+		<string>Узнай, кто просматривал твои фотки во ВКонтакте бесплатно!</string>
+		<key>account</key>
+		<string>fedor</string>
+		<key>bundleId</key>
+		<string>com.fedorlukin.photoguests.pro</string>
+		<key>in_review</key>
+		<false/>
+		<key>show_in_kontakt</key>
+		<true/>
+		<key>available</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Автомобильный пакет</string>
+		<key>appstore_id</key>
+		<string>1061993909</string>
+		<key>description</key>
+		<string>Приложения для автомобилистов: антирадар и поиск автомобиля на парковке</string>
+		<key>account</key>
+		<string>semenov</string>
+		<key>bundleId</key>
+		<string></string>
+		<key>in_review</key>
+		<false/>
+		<key>show_in_kontakt</key>
+		<true/>
+		<key>available</key>
+		<true/>
+		<key>url</key>
+		<string>https://itunes.apple.com/ru/app-bundle/avtomobil-nyj-paket/id1061993909?mt=8</string>
 	</dict>
 </array>
 </plist>
