@@ -1,8 +1,8 @@
 var vkGenerator = {
   like: function() {
-    html = document.querySelectorAll('.item_like')[0];
+    html = document.getElementsByClassName('item_button item_like')[0];
     if (html.href.indexOf("act=add") > -1) {
-      document.querySelectorAll('.item_like')[0].click()
+      html.click();
       return true
     } else {
       return false;

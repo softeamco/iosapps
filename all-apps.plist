@@ -24,6 +24,24 @@
 	</dict>
 	<dict>
 		<key>title</key>
+		<string>Накрутка для ВКонтакте</string>
+		<key>appstore_id</key>
+		<string>1061394833</string>
+		<key>description</key>
+		<string>Бесплатно накрути тысячи реальных подписчиков и лайков!</string>
+		<key>account</key>
+		<string>semenov</string>
+		<key>bundleId</key>
+		<string>com.maximsemenov.generator</string>
+		<key>in_review</key>
+		<false/>
+		<key>show_in_kontakt</key>
+		<true/>
+		<key>available</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>title</key>
 		<string>Гости ВКонтакте</string>
 		<key>appstore_id</key>
 		<string>1046894608</string>
@@ -125,24 +143,6 @@
 		<string>semenov</string>
 		<key>bundleId</key>
 		<string>com.maximsemenov.vtakte</string>
-		<key>in_review</key>
-		<false/>
-		<key>show_in_kontakt</key>
-		<true/>
-		<key>available</key>
-		<true/>
-	</dict>
-	<dict>
-		<key>title</key>
-		<string>Накрутка для ВКонтакте</string>
-		<key>appstore_id</key>
-		<string>1061394833</string>
-		<key>description</key>
-		<string>Получи 40.000 подписчиков для своей страницы ВКонтакте!</string>
-		<key>account</key>
-		<string>semenov</string>
-		<key>bundleId</key>
-		<string>com.maximsemenov.generator</string>
 		<key>in_review</key>
 		<false/>
 		<key>show_in_kontakt</key>
