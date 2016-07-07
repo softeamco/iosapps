@@ -24,6 +24,24 @@
 	</dict>
 	<dict>
 		<key>title</key>
+		<string>Бесплатные лайки для Instagram</string>
+		<key>appstore_id</key>
+		<string>1124820346</string>
+		<key>description</key>
+		<string>Получи тысячи реальных подписчиков и лайков в Instagram!</string>
+		<key>account</key>
+		<string>fedor</string>
+		<key>bundleId</key>
+		<string>com.fedorlukin.instanakrutka</string>
+		<key>in_review</key>
+		<false/>
+		<key>show_in_kontakt</key>
+		<true/>
+		<key>available</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>title</key>
 		<string>Накрутка для ВКонтакте</string>
 		<key>appstore_id</key>
 		<string>1061394833</string>
