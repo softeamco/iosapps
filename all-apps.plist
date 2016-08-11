@@ -78,6 +78,24 @@
 	</dict>
 	<dict>
 		<key>title</key>
+		<string>Secrets for Pokemon GO</string>
+		<key>appstore_id</key>
+		<string>1135901178</string>
+		<key>description</key>
+		<string>Секреты, прохождение, советы и многое другое для популярной игры!</string>
+		<key>account</key>
+		<string>gulin</string>
+		<key>bundleId</key>
+		<string>com.viktorgulin.pokeguides</string>
+		<key>in_review</key>
+		<false/>
+		<key>show_in_kontakt</key>
+		<true/>
+		<key>available</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>title</key>
 		<string>Гости ВКонтакте</string>
 		<key>appstore_id</key>
 		<string>1046894608</string>
