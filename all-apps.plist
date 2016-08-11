@@ -96,6 +96,42 @@
 	</dict>
 	<dict>
 		<key>title</key>
+		<string>Pokespy for Pokemon GO</string>
+		<key>appstore_id</key>
+		<string>1135286439</string>
+		<key>description</key>
+		<string>Крауд-сорсинговая карта расположения покемонов популярной игры!</string>
+		<key>account</key>
+		<string>gulin</string>
+		<key>bundleId</key>
+		<string>com.viktorgulin.pokemaps</string>
+		<key>in_review</key>
+		<false/>
+		<key>show_in_kontakt</key>
+		<true/>
+		<key>available</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Social Reports PRO</string>
+		<key>appstore_id</key>
+		<string>1136627172</string>
+		<key>description</key>
+		<string>Отслеживайте ваших поклонников в социальных сетях</string>
+		<key>account</key>
+		<string>gulin</string>
+		<key>bundleId</key>
+		<string>com.viktorgulin.socialreportspro</string>
+		<key>in_review</key>
+		<false/>
+		<key>show_in_kontakt</key>
+		<true/>
+		<key>available</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>title</key>
 		<string>Гости ВКонтакте</string>
 		<key>appstore_id</key>
 		<string>1046894608</string>
