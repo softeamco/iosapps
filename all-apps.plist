@@ -24,6 +24,42 @@
 	</dict>
 	<dict>
 		<key>title</key>
+		<string>Бесплатные лайки для Instagram</string>
+		<key>appstore_id</key>
+		<string>1124820346</string>
+		<key>description</key>
+		<string>Получи тысячи реальных подписчиков и лайков в Instagram!</string>
+		<key>account</key>
+		<string>fedor</string>
+		<key>bundleId</key>
+		<string>com.fedorlukin.instanakrutka</string>
+		<key>in_review</key>
+		<false/>
+		<key>show_in_kontakt</key>
+		<true/>
+		<key>available</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Гости для Инстаграм</string>
+		<key>appstore_id</key>
+		<string>1141356651</string>
+		<key>description</key>
+		<string>Узнай, кто заходил на твою страницу в Instagram!</string>
+		<key>account</key>
+		<string>gulin</string>
+		<key>bundleId</key>
+		<string>com.viktorgulin.instaguestspaid</string>
+		<key>in_review</key>
+		<true/>
+		<key>show_in_kontakt</key>
+		<true/>
+		<key>available</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>title</key>
 		<string>Накрутка для ВКонтакте</string>
 		<key>appstore_id</key>
 		<string>1061394833</string>
@@ -33,6 +69,60 @@
 		<string>semenov</string>
 		<key>bundleId</key>
 		<string>com.maximsemenov.generator</string>
+		<key>in_review</key>
+		<false/>
+		<key>show_in_kontakt</key>
+		<true/>
+		<key>available</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Secrets for Pokemon GO</string>
+		<key>appstore_id</key>
+		<string>1135901178</string>
+		<key>description</key>
+		<string>Секреты, прохождение, советы и многое другое для популярной игры!</string>
+		<key>account</key>
+		<string>gulin</string>
+		<key>bundleId</key>
+		<string>com.viktorgulin.pokeguides</string>
+		<key>in_review</key>
+		<false/>
+		<key>show_in_kontakt</key>
+		<true/>
+		<key>available</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Pokespy for Pokemon GO</string>
+		<key>appstore_id</key>
+		<string>1135286439</string>
+		<key>description</key>
+		<string>Крауд-сорсинговая карта расположения покемонов популярной игры!</string>
+		<key>account</key>
+		<string>gulin</string>
+		<key>bundleId</key>
+		<string>com.viktorgulin.pokemaps</string>
+		<key>in_review</key>
+		<false/>
+		<key>show_in_kontakt</key>
+		<true/>
+		<key>available</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Social Reports PRO</string>
+		<key>appstore_id</key>
+		<string>1136627172</string>
+		<key>description</key>
+		<string>Отслеживайте ваших поклонников в социальных сетях</string>
+		<key>account</key>
+		<string>gulin</string>
+		<key>bundleId</key>
+		<string>com.viktorgulin.socialreportspro</string>
 		<key>in_review</key>
 		<false/>
 		<key>show_in_kontakt</key>

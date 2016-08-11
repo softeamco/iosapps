@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>Likedgram</string>
+		<key>appstore_id</key>
+		<string>1124820346</string>
+		<key>description</key>
+		<string>Get FREE likes and followers on Instagram!</string>
+		<key>account</key>
+		<string>fedor</string>
+		<key>bundleId</key>
+		<string>com.fedorlukin.instanakrutka</string>
+		<key>in_review</key>
+		<false/>
+		<key>show_in_kontakt</key>
+		<true/>
+		<key>available</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Spy for Instagram</string>
+		<key>appstore_id</key>
+		<string>1114314197</string>
+		<key>description</key>
+		<string>Best Seller! Spy for Instagram!</string>
+		<key>account</key>
+		<string>fedor</string>
+		<key>bundleId</key>
+		<string>com.fedorlukin.instalocator</string>
+		<key>in_review</key>
+		<false/>
+		<key>show_in_kontakt</key>
+		<true/>
+		<key>available</key>
+		<true/>
+	</dict>
+</array>
+</plist>
