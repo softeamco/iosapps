@@ -42,6 +42,24 @@
 	</dict>
 	<dict>
 		<key>title</key>
+		<string>Гости для Инстаграм</string>
+		<key>appstore_id</key>
+		<string>1124820346</string>
+		<key>description</key>
+		<string>Узнай, кто заходил на твою страницу в Instagram!</string>
+		<key>account</key>
+		<string>gulin</string>
+		<key>bundleId</key>
+		<string>com.viktorgulin.instaguestspaid</string>
+		<key>in_review</key>
+		<true/>
+		<key>show_in_kontakt</key>
+		<true/>
+		<key>available</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>title</key>
 		<string>Накрутка для ВКонтакте</string>
 		<key>appstore_id</key>
 		<string>1061394833</string>
