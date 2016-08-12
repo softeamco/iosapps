@@ -24,5 +24,9 @@
 	<integer>2000</integer>
 	<key>instalocator_appodeal_enabled</key>
 	<false/>
+	<key>com.viktorgulin.instaguestspaid</key>
+	<true/>
+	<key>com.viktorgulin.instaguests</key>
+	<false/>
 </dict>
 </plist>
