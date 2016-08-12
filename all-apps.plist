@@ -56,7 +56,25 @@
 		<key>show_in_kontakt</key>
 		<true/>
 		<key>available</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Гости для Инстаграм PRO</string>
+		<key>appstore_id</key>
+		<string>1141313157</string>
+		<key>description</key>
+		<string>Узнай, кто заходил на твою страницу в Instagram! Бесплатная версия</string>
+		<key>account</key>
+		<string>gulin</string>
+		<key>bundleId</key>
+		<string>com.viktorgulin.instaguests</string>
+		<key>in_review</key>
 		<true/>
+		<key>show_in_kontakt</key>
+		<true/>
+		<key>available</key>
+		<false/>
 	</dict>
 	<dict>
 		<key>title</key>
