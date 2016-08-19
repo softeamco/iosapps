@@ -27,6 +27,6 @@
 	<key>com.viktorgulin.instaguestspaid</key>
 	<true/>
 	<key>com.viktorgulin.instaguests</key>
-	<false/>
+	<true/>
 </dict>
 </plist>
