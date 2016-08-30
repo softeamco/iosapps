@@ -44,6 +44,24 @@
 		<key>title</key>
 		<string>Гости для Инстаграм</string>
 		<key>appstore_id</key>
+		<string>1148857878</string>
+		<key>description</key>
+		<string>Узнай, кто заходил на твою страницу в Instagram!</string>
+		<key>account</key>
+		<string>fedor</string>
+		<key>bundleId</key>
+		<string>com.fedorlukin.instaguests2</string>
+		<key>in_review</key>
+		<true/>
+		<key>show_in_kontakt</key>
+		<true/>
+		<key>available</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Гости для Инстаграм</string>
+		<key>appstore_id</key>
 		<string>1141356651</string>
 		<key>description</key>
 		<string>Узнай, кто заходил на твою страницу в Instagram!</string>
