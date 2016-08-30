@@ -40,5 +40,7 @@
 	<integer>3</integer>
 	<key>open_photoguests</key>
 	<integer>30</integer>
+	<key>vk_friends_locator_full_access_enabled</key>
+	<false/>
 </dict>
 </plist>
