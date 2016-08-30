@@ -184,5 +184,23 @@
 		<key>available</key>
 		<true/>
 	</dict>
+	<dict>
+		<key>title</key>
+		<string>Слежка для ВКонтакте</string>
+		<key>appstore_id</key>
+		<string>1055100571</string>
+		<key>description</key>
+		<string>Установи СЛЕЖКУ за своими друзьями!</string>
+		<key>account</key>
+		<string>semenov</string>
+		<key>bundleId</key>
+		<string>com.maximsemenov.friends-locator</string>
+		<key>in_review</key>
+		<true/>
+		<key>show_in_kontakt</key>
+		<true/>
+		<key>available</key>
+		<true/>
+	</dict>
 </array>
 </plist>
