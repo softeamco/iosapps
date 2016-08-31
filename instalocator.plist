@@ -28,5 +28,9 @@
 	<true/>
 	<key>com.viktorgulin.instaguests</key>
 	<false/>
+	<key>com.fedorlukin.instaguests</key>
+	<true/>
+	<key>com.fedorlukin.instaguests2</key>
+	<false/>
 </dict>
 </plist>
