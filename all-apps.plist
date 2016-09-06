@@ -44,19 +44,19 @@
 		<key>title</key>
 		<string>Гости для Инстаграм</string>
 		<key>appstore_id</key>
-		<string>1148857878</string>
+		<string>1132206944</string>
 		<key>description</key>
 		<string>Узнай, кто заходил на твою страницу в Instagram!</string>
 		<key>account</key>
 		<string>fedor</string>
 		<key>bundleId</key>
-		<string>com.fedorlukin.instaguests2</string>
+		<string>com.fedorlukin.instaguests</string>
 		<key>in_review</key>
-		<true/>
+		<false/>
 		<key>show_in_kontakt</key>
 		<true/>
 		<key>available</key>
-		<false/>
+		<true/>
 	</dict>
 	<dict>
 		<key>title</key>
@@ -128,7 +128,7 @@
 		<key>show_in_kontakt</key>
 		<true/>
 		<key>available</key>
-		<true/>
+		<false/>
 	</dict>
 	<dict>
 		<key>title</key>
@@ -146,7 +146,7 @@
 		<key>show_in_kontakt</key>
 		<true/>
 		<key>available</key>
-		<true/>
+		<false/>
 	</dict>
 	<dict>
 		<key>title</key>
@@ -164,7 +164,7 @@
 		<key>show_in_kontakt</key>
 		<true/>
 		<key>available</key>
-		<true/>
+		<false/>
 	</dict>
 	<dict>
 		<key>title</key>
@@ -182,7 +182,7 @@
 		<key>show_in_kontakt</key>
 		<true/>
 		<key>available</key>
-		<true/>
+		<false/>
 	</dict>
 	<dict>
 		<key>title</key>
@@ -218,7 +218,7 @@
 		<key>show_in_kontakt</key>
 		<true/>
 		<key>available</key>
-		<true/>
+		<false/>
 	</dict>
 </array>
 </plist>
