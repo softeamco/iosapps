@@ -52,7 +52,7 @@
 		<key>bundleId</key>
 		<string>com.fedorlukin.instaguests</string>
 		<key>in_review</key>
-		<false/>
+		<true/>
 		<key>show_in_kontakt</key>
 		<true/>
 		<key>available</key>
